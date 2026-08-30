@@ -1,0 +1,13 @@
+metric,value
+total_events,1827252.0
+total_parts,149918.0
+total_stations,51.0
+normal_events,1742223.0
+warning_events,85024.0
+anomalous_events,5.0
+anomalous_event_rate_pct,0.0002736349447147958
+critical_quality_parts,145.0
+high_quality_parts,5802.0
+mean_anomaly_score,0.09811411083932424
+max_anomaly_score,0.6347550166849559
+mean_predicted_defect_probability,0.22963899001557006
