@@ -4,6 +4,7 @@ A data-driven **Digital Twin Analytics Platform** designed to monitor and analyz
 
 The project transforms manufacturing data into actionable insights at the **factory, station, part, and event levels**.
 
+PROTOTYPE LINK : https://bosch-digital-twin-dazhd6kjuqvngcvuhpsfwr.streamlit.app/
 ---
 
 ## 🚀 Project Overview
@@ -156,3 +157,8 @@ Manufacturing Data
 ┌──────────────────────────┐
 │ Streamlit Dashboard      │
 └──────────────────────────┘
+
+
+
+
+
