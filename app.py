@@ -29,7 +29,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 EVENT_FILE = os.path.join(
     BASE_DIR,
-    "layer5_digital_twin_events.parquet"
+    "layer5_dashboard_compact.parquet"
 )
 
 PART_FILE = os.path.join(
